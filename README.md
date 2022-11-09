@@ -6,11 +6,11 @@
 
 In this quest, you will be creating a static website and hosting it with GitHub pages, while implementing branch protection and merge reviews for moving code from development to production.
 
+Live demo available at: https://meli-nzekele.github.io/MeliNzekele-Git-Shop/
+
 ## **_Part 2_**
 
 Using GitHub Actions to add CI/CD to your workflow to run a Python file upon successful pull requests as a foundation to using GitHub Actions for more complex use cases.
-
-Live demo available at: https://meli-nzekele.github.io/MeliNzekele-Git-Shop/
 
 ## **_Learning objectives_**
 
